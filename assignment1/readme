@@ -1,3 +1,5 @@
 Please download the datasets "cifar-10-batches-py" firstly.
 
 Add it to the file "assignment1", then run the code!
+
+Don't forget to change the file path according to your computer in "load_data.py"
